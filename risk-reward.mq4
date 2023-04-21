@@ -1,7 +1,7 @@
 //+------------------------------------------------------------------+
 //|                                                      ProjectName |
 //|                                      Copyright 2018, CompanyName |
-//|                                       http://www.companyname.net |
+//|                                       momansoury |
 //+------------------------------------------------------------------+
 #property copyright "NEO"
 #property link      "Neo.Reverser@gmail.com"
